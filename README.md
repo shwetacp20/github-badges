@@ -55,6 +55,8 @@ GitHub profile badges (also called **Achievements**) were introduced after the l
 
 > These badges are **currently earnable** right now.
 
+For the latest official information, see the [GitHub Achievements documentation](https://docs.github.com/en/account-and-profile/reference/profile-achievements).
+
 <div align="center">
 
 | Badge | Name | How to Earn | Difficulty |
